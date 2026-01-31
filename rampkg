@@ -2,4 +2,6 @@ deplistPacman=(foot meow)
 
 provides=()
 
-SETUP() { : }
+SETUP() {
+:
+}
