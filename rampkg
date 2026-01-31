@@ -1,6 +1,6 @@
 deplistPacman=(foot meow :3)
 
-provides=()
+provides=("rampkg:/tmp/rampkg")
 
 SETUP() {
 :
