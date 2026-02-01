@@ -1,6 +1,6 @@
 deplistPacman=(foot meow :3)
 
-provides=("rampkg:/tmp/rampkg" "dependencies:/tmp/dependencies")
+provides=()
 
 SETUP() {
 echo meow
